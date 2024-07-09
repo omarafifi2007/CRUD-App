@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sidebar {
+    background-color: #f8f9fa;
+}
+.sidebar  li {
+    text-align: center;
+    padding: 10px 5px;
+}
+.sidebar li a {
+    font-size: 18px;
+    text-decoration: none;
+}
+tr {
+    width: 100px;
+    font-size: 18px;
+}
